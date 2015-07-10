@@ -1,0 +1,28 @@
+Home: link:/lokalebesturen/139-www.html[HR Oplossingen] |
+link:/lokalebesturen/139-www/271-www.html[Opleidingen] |
+link:/lokalebesturen/139-www/271-www/419-www.html[Softwaretoepassingen]
+
+[[dsy514-www]]
+Opleiding loonadministratie
+---------------------------
+
+Voor de opleiding loonadministratie die gespreid wordt over 6 hele dagen
+en 1 halve dag, worden in totaal 4 opleidingsdagen aangerekend aan het
+bestuur die de loonadministratie in eigen beheer verwerkt. +
+ De prijs per opleidingsdag is in functie van het aantal deelnemers.
+
+De verdeling van de onderwerpen is als volgt:
+
+[width="100%",cols="100%",]
+|=======================================================================
+a|
+* link:/lokalebesturen/139-www/271-www/419-www/514-www/350-www.html[Basisopleiding
+Loonadministratie]
+* link:/lokalebesturen/139-www/271-www/419-www/514-www/2781-www.html[Begroting]
+* link:/lokalebesturen/139-www/271-www/419-www/514-www/494-www.html[DMFAppl-aangifte]
+* link:/lokalebesturen/139-www/271-www/419-www/514-www/496-www.html[Eindejaarstoelage]
+* link:/lokalebesturen/139-www/271-www/419-www/514-www/497-www.html[Fiscale
+fiches en Belcotax]
+* link:/lokalebesturen/139-www/271-www/419-www/514-www/495-www.html[Vakantiegeld]
+
+|=======================================================================
