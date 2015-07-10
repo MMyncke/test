@@ -1,89 +1,50 @@
-<div id="content">
-<div id="inside">
-<div id="breadcrumbs">
-     
-   Home:
-    <a href="/lokalebesturen/139-www.html" class="breadcrumbs">HR Oplossingen</a> | <a href="/lokalebesturen/139-www/271-www.html" class="breadcrumbs">Opleidingen</a> | <a href="/lokalebesturen/139-www/271-www/419-www.html" class="breadcrumbs">Softwaretoepassingen</a> | <a href="/lokalebesturen/139-www/271-www/419-www/514-www.html" class="breadcrumbs">Loonadministratie</a>
-</div>
-<h1 xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:p="http://outerx.org/daisy/1.0#publisher" xmlns:lt="http://outerx.org/daisy/1.0#linktransformer" xmlns:einclude="http://outerx.org/daisy/1.0#externalinclude" id="dsy496-www" class="daisy-document-name">Eindejaarstoelage</h1>
+Home: link:/lokalebesturen/139-www.html[HR Oplossingen] |
+link:/lokalebesturen/139-www/271-www.html[Opleidingen] |
+link:/lokalebesturen/139-www/271-www/419-www.html[Softwaretoepassingen]
+|
+link:/lokalebesturen/139-www/271-www/419-www/514-www.html[Loonadministratie]
 
+[[dsy496-www]]
+Eindejaarstoelage
+-----------------
 
-<h1 xmlns:jx="http://apache.org/cocoon/templates/jx/1.0" xmlns:ns="http://outerx.org/daisy/1.0">Inhoud van de opleiding</h1>
+Inhoud van de opleiding
+-----------------------
 
+* In deze opleiding leert u hoe u de eindejaarstoelage met het
+loonprogramma kan berekenen.
+* Aan de hand van de weddegegevens van de opdracht en de
+gelijkstellingen in de kalender wordt voor ieder personeelslid het
+correcte bedrag van de eindejaarstoelage berekend.
+* Met een kleine oefening kan u het programma in de praktijk uittesten.
 
-<ul>
+Voor wie
+--------
 
-<li>In deze opleiding leert u hoe u de eindejaarstoelage met het loonprogramma
-kan berekenen.</li>
+* softwaregebruikers van de toepassing Loonadministratie die de
+eindejaarstoelage berekenen
 
-<li>Aan de hand van de weddegegevens van de opdracht en de gelijkstellingen in
-de kalender wordt voor ieder personeelslid het correcte bedrag van de
-eindejaarstoelage berekend.</li>
+Praktisch
+---------
 
-<li>Met een kleine oefening kan u het programma in de praktijk uittesten.</li>
+* Alle vormingsessies vinden plaats in één van onze opleidingszalen te
+Nazareth, Zaal Valk of zaal Arend.
 
-</ul>
+Documentatie
+------------
 
+* Bij deze opleiding krijgt u een handleiding
 
-<h1>Voor wie</h1>
+Inschrijven
+-----------
 
+* Inschrijven kan via de klantenzone.
 
-<ul>
+Meer info?
+----------
 
-<li>softwaregebruikers van de toepassing Loonadministratie die de
-eindejaarstoelage berekenen</li>
+Wenst u meer info over deze opleiding dan kan u Stijn De Vos 
+contacteren:
 
-</ul>
-
-
-<h1>Praktisch</h1>
-
-
-<ul>
-
-<li>Alle vormingsessies vinden plaats in één van onze opleidingszalen te
-Nazareth, Zaal Valk of zaal Arend.</li>
-
-</ul>
-
-
-<h1>Documentatie</h1>
-
-
-<ul>
-
-<li>Bij deze opleiding krijgt u een handleiding</li>
-
-</ul>
-
-
-<h1>Inschrijven</h1>
-
-
-<ul>
-
-<li>Inschrijven kan&nbsp;via de klantenzone.</li>
-
-</ul>
-
-
-<h1>Meer info?</h1>
-
-
-<p>Wenst u meer info over deze opleiding dan kan u Stijn De Vos&nbsp; contacteren:
-</p>
-
-
-<ul>
-
-<li>tel: +32 (09) 389 03 25</li>
-
-<li>
-<a href="mailto:sdv@schaubroeck.be">e-mail</a>
-</li>
-
-</ul>
-
-
-</div>
-</div>
+* tel: +32 (09) 389 03 25
+* mailto:sdv@schaubroeck.be[e-mail]
