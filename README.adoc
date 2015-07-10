@@ -1,0 +1,25 @@
+== Assignment
+Daisy -> AsciiDoc -> HTML, EPUB, PDF
+
+== Step 1
+
+==== HTML -> AsciiDoc:
+Used http://pandoc.org[pandoc] for convertion.
+[source,bash]
+----
+pandoc --from html --to asciidoc
+----
+
+
+
+== Step 2
+
+==== AsciiDoc -> HTML, EPUB, PDF
+
+. PDF
+  .. Merging AsciiDocs
+  .. Converting to PDF
+. HTML
+  .. JBake
+  .. Awestruct
+. EPUB
