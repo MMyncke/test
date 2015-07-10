@@ -1,0 +1,89 @@
+<div id="content">
+<div id="inside">
+<div id="breadcrumbs">
+     
+   Home:
+    <a href="/lokalebesturen/139-www.html" class="breadcrumbs">HR Oplossingen</a> | <a href="/lokalebesturen/139-www/271-www.html" class="breadcrumbs">Opleidingen</a> | <a href="/lokalebesturen/139-www/271-www/419-www.html" class="breadcrumbs">Softwaretoepassingen</a> | <a href="/lokalebesturen/139-www/271-www/419-www/514-www.html" class="breadcrumbs">Loonadministratie</a>
+</div>
+<h1 xmlns:cinclude="http://apache.org/cocoon/include/1.0" xmlns:p="http://outerx.org/daisy/1.0#publisher" xmlns:lt="http://outerx.org/daisy/1.0#linktransformer" xmlns:einclude="http://outerx.org/daisy/1.0#externalinclude" id="dsy496-www" class="daisy-document-name">Eindejaarstoelage</h1>
+
+
+<h1 xmlns:jx="http://apache.org/cocoon/templates/jx/1.0" xmlns:ns="http://outerx.org/daisy/1.0">Inhoud van de opleiding</h1>
+
+
+<ul>
+
+<li>In deze opleiding leert u hoe u de eindejaarstoelage met het loonprogramma
+kan berekenen.</li>
+
+<li>Aan de hand van de weddegegevens van de opdracht en de gelijkstellingen in
+de kalender wordt voor ieder personeelslid het correcte bedrag van de
+eindejaarstoelage berekend.</li>
+
+<li>Met een kleine oefening kan u het programma in de praktijk uittesten.</li>
+
+</ul>
+
+
+<h1>Voor wie</h1>
+
+
+<ul>
+
+<li>softwaregebruikers van de toepassing Loonadministratie die de
+eindejaarstoelage berekenen</li>
+
+</ul>
+
+
+<h1>Praktisch</h1>
+
+
+<ul>
+
+<li>Alle vormingsessies vinden plaats in één van onze opleidingszalen te
+Nazareth, Zaal Valk of zaal Arend.</li>
+
+</ul>
+
+
+<h1>Documentatie</h1>
+
+
+<ul>
+
+<li>Bij deze opleiding krijgt u een handleiding</li>
+
+</ul>
+
+
+<h1>Inschrijven</h1>
+
+
+<ul>
+
+<li>Inschrijven kan&nbsp;via de klantenzone.</li>
+
+</ul>
+
+
+<h1>Meer info?</h1>
+
+
+<p>Wenst u meer info over deze opleiding dan kan u Stijn De Vos&nbsp; contacteren:
+</p>
+
+
+<ul>
+
+<li>tel: +32 (09) 389 03 25</li>
+
+<li>
+<a href="mailto:sdv@schaubroeck.be">e-mail</a>
+</li>
+
+</ul>
+
+
+</div>
+</div>
